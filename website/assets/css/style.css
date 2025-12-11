@@ -1,4 +1,12 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 
+.rounded-circle-custom {
+
+width: 400px; 
+height:400px;
+border-radius: 50%;
+position: relative;
+left: 20px;
+}
