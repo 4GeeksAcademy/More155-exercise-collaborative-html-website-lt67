@@ -1,3 +1,13 @@
+.navbar-brand{
+    color: #b0b0b0;
+}
+.navbar .nav-link {
+  color: #b0b0b0;
+}
+.navbar .nav-link:hover {
+  color: #e0e0e0;
+}
+
 body{
     background: #ffffff;
 }
