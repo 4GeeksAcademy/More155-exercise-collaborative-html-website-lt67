@@ -1,15 +1,18 @@
-.navbar-brand{
-    color: #b0b0b0;
-}
-.navbar .nav-link {
-  color: #b0b0b0;
-}
-.navbar .nav-link:hover {
-  color: #e0e0e0;
-}
-
 body{
     background: #ffffff;
+}
+
+.hero {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://images.pexels.com/photos/7837/pexels-photo.jpg?cs=srgb&dl=pexels-life-of-pix-7837.jpg&fm=jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .rounded-circle-custom {
