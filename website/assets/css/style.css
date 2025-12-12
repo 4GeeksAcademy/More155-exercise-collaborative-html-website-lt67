@@ -22,5 +22,11 @@ height:400px;
 border-radius: 50%;
 position: relative;
 left: 20px;
+object-fit: cover;
+aspect-ratio: 1 / 1;
+max-width: 100%;
+width: 100%;
+height: auto;
+
 }
 
